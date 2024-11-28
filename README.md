@@ -1,5 +1,5 @@
 
-![My Profile Image]([https://via.placeholder.com/150](https://imgur.com/vRpk4bC))
+![My Profile Image](https://imgur.com/vRpk4bC)
 
 - 👋 Hi, I’m Ahmed Raza
 - 👀 I’m interested in Mobile App Develpoment
