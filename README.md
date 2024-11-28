@@ -1,8 +1,6 @@
 
 
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*AlISztRwQYNWh6XpWXAEOA.png" alt="MasterHead" style="width:100%; height:auto;">
-
-<h1 align="center">Hi 👋, I'm Ahmed Raza</h1>
+<h1 align="center">Hi , I'm Ahmed Raza</h1>
 <h3 align="center">A passionate Mobile App Developer from PAKISTAN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flutterdoctor1771&label=Profile%20views&color=0e75b6&style=flat" alt="flutterdoctor1771" /> </p>
