@@ -1,4 +1,6 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDex6zEbDFOKBR4Yv4dPeReB7g68Ac4WkYYRxM0g2sWEqk2mRTTEulil94sq7KDRyP49o&usqp=CAU)
+
+
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*AlISztRwQYNWh6XpWXAEOA.png" alt="MasterHead" style="width:100%; height:auto;">
 
 <h1 align="center">Hi 👋, I'm Ahmed Raza</h1>
 <h3 align="center">A passionate Mobile App Developer from PAKISTAN</h3>
